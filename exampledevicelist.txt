@@ -1,0 +1,382 @@
+ThinkPad P15 Gen 2
+Latitude 5410
+ThinkPad L14 Gen 3
+Latitude 5520
+ThinkPad T470
+Latitude 3430
+ThinkPad E14 Gen 5
+Latitude 5440
+ThinkPad P14s Gen 1
+Latitude 5540
+ThinkPad Z13 Gen 2
+Latitude 5430
+ThinkPad P1 Gen 6
+Latitude 7410
+ThinkPad E16 Gen 1
+Latitude 3420
+ThinkPad Z16 Gen 1
+Latitude 5420
+ThinkPad P1 Gen 5
+Latitude 7330
+ThinkPad X13 Gen 1
+EliteBook 845 G8
+ThinkPad X1 Yoga Gen 6
+Latitude 7530
+ThinkPad P14s Gen 4
+EliteBook 860 G9
+ThinkPad L14 Gen 1
+Latitude 5490
+ThinkPad X1 Carbon Gen 12
+EliteBook 845 G9
+ThinkPad X1 Yoga Gen 8
+Latitude 9420
+ThinkPad L13 Gen 2
+EliteBook 1040 G10
+ThinkPad P16 Gen 1
+Latitude 5330
+ThinkPad X13 Gen 2
+EliteBook 840 G9
+ThinkPad E14 Gen 3
+Latitude 7430
+ThinkPad L15 Gen 1
+EliteBook 855 G8
+ThinkPad L13 Gen 4
+Precision 3580
+ThinkPad E15 Gen 1
+Latitude 7490
+ThinkPad P16s Gen 1
+EliteBook 830 G7
+ThinkPad X1 Carbon Gen 11
+Precision 5480
+ThinkPad X1 Nano Gen 1
+Latitude 7340
+ThinkPad X13 Gen 4
+EliteBook 850 G6
+ThinkPad X1 Nano Gen 2
+XPS 13 9370
+ThinkPad E15 Gen 2
+Precision 7780
+ThinkPad L15 Gen 2
+Latitude 7400
+ThinkPad P14s Gen 2
+EliteBook 630 G9
+ThinkPad E15 Gen 4
+XPS 15 9530
+ThinkPad X1 Carbon Gen 9
+Precision 3480
+ThinkPad E14 Gen 1
+Latitude 7520
+ThinkPad P16 Gen 2
+EliteBook 840 G8
+ThinkPad P16s Gen 2
+XPS 17 9700
+ThinkPad P52
+Precision 7760
+ThinkPad X1 Carbon Gen 7
+Latitude 7320
+ThinkPad T14s Gen 3
+ROG Zephyrus G14
+ThinkPad P1 Gen 4
+EliteBook 840 G6
+ThinkPad X280
+XPS 13 9315
+ThinkPad Z13 Gen 1
+Inspiron 16 5625
+ThinkPad T16 Gen 2
+Precision 5550
+ThinkPad X1 Yoga Gen 7
+Latitude 5530
+ThinkPad T14s Gen 4
+ROG Strix SCAR 18
+ThinkPad X1 Carbon Gen 8
+EliteBook 865 G9
+ThinkPad T16 Gen 1
+XPS 17 9730
+ThinkPad P17 Gen 2
+Inspiron 14 5420
+ThinkPad L13 Gen 3
+Precision 7670
+ThinkPad P53
+Latitude 5310
+ThinkPad X1 Extreme Gen 4
+ROG Strix G17
+ThinkPad T14 Gen 2
+EliteBook 840 G10
+ThinkPad X13 Gen 3
+XPS 17 9720
+ThinkPad X390
+Inspiron 15 5510
+ThinkPad L14 Gen 2
+Precision 5770
+ThinkPad X13 Yoga Gen 2
+Latitude 9440
+ThinkPad T14s Gen 2
+ROG Strix SCAR 16
+ThinkPad T15p Gen 2
+EliteBook 860 G10
+ThinkPad T480
+XPS 13 9380
+ThinkPad T490
+ProBook 450 G10
+ThinkPad T14 Gen 4
+Inspiron 15 3520
+Precision 3581
+Latitude 5340
+ROG Strix G15
+EliteBook 1040 G8
+ThinkPad E15 Gen 3
+XPS 15 7590
+ProBook 440 G10
+Inspiron 14 5425
+Precision 7770
+Latitude 3530
+ROG Zephyrus G16
+EliteBook 835 G8
+ThinkPad T14 Gen 1
+XPS 14 9440
+ProBook 445 G8
+Inspiron 15 3511
+Vivobook 15X OLED
+Precision 5540
+Alienware m18 R1
+Latitude 7420
+ROG Flow X16
+EliteBook 840 G5
+ThinkPad X1 Carbon Gen 10
+XPS 13 9305
+ProBook 650 G8
+Zenbook Pro 16X OLED
+Inspiron 14 5430
+Vivobook S 15 OLED
+Precision 5760
+Alienware m16 R2
+Latitude 9430
+ROG Flow X13
+EliteBook 845 G10
+ThinkPad E14 Gen 2
+XPS 13 9300
+ProBook 440 G8
+Zenbook 14 UX425
+Inspiron 15 5515
+Vivobook 16 M1605
+Precision 3470
+Alienware m15 R6
+Latitude 3440
+ROG Zephyrus G15
+EliteBook 1040 G7
+ThinkPad E14 Gen 4
+XPS 15 9500
+TUF Dash F15
+ProBook 635 Aero G8
+Zenbook 14 OLED UX3402
+Inspiron 16 5620
+Vivobook 17X
+Precision 5680
+Alienware x17 R2
+Vostro 5510
+Latitude 7440
+ROG Strix SCAR 15
+EliteBook 655 G9
+ThinkPad T15 Gen 2
+XPS 13 7390
+TUF Gaming F15
+ProBook 640 G8
+Zenbook Pro 14 Duo OLED
+Inspiron 16 5630
+Vivobook Pro 15 OLED
+Precision 7680
+ZBook Studio 16 G9
+Legion Slim 5 16APH8
+Alienware m16 R1
+Vostro 5410
+Latitude 9330
+ROG Zephyrus M16
+EliteBook 1040 G9
+ThinkPad P14s Gen 3
+Swift X 14
+XPS 17 9710
+Pavilion 15
+TUF Gaming A14
+ProBook 450 G8
+Zenbook S 13 OLED
+Inspiron 16 Plus 7610
+Predator Helios 16
+Vivobook 14 X1404
+Precision 5750
+ZBook 15 G6
+Legion 5 15IAH7
+ThinkBook 16p Gen 4
+Alienware x14 R2
+Vostro 3520
+Latitude 3540
+ROG Zephyrus M15
+EliteBook 850 G7
+ThinkPad T14 Gen 3
+Swift 3
+XPS 15 9520
+Pavilion Gaming 15
+TUF Gaming F16
+ProBook 440 G9
+Zenbook 17 Fold OLED
+Inspiron 14 7420
+Predator Triton 300
+Vivobook 16X
+Precision 5560
+ExpertBook B3 Flip
+ZBook Firefly 14 G9
+Legion Slim 7 16IRH8
+ThinkBook 13s Gen 4
+Alienware x15 R2
+Yoga 9i Gen 8
+Vostro 3400
+IdeaPad Slim 3 15ABR8
+MSI Stealth 14 Studio
+Latitude 3520
+ROG Flow Z13
+EliteBook 840 G7
+ThinkPad L15 Gen 3
+Swift Edge 16
+XPS 13 9310
+Pavilion Aero 13
+TUF Gaming A17
+ProBook 450 G9
+Zenbook 15 OLED UM3504
+Inspiron 16 Plus 7620
+Predator Helios 500
+OMEN Transcend 16
+Vivobook Pro 16X OLED
+Precision 5570
+ExpertBook B1 B1500
+Aspire 5
+ZBook Firefly 16 G9
+Envy x360 13
+Legion Pro 5 16IRX8
+ThinkBook 14 G6
+Alienware m15 R7
+Yoga Pro 9i 16IRP8
+Vostro 5630
+IdeaPad 3 15ITL6
+Dell G16 7630
+Lenovo LOQ 15APH8
+MSI Katana 17
+Latitude 5320
+ROG Zephyrus Duo 16
+EliteBook 865 G10
+ThinkPad X1 Carbon Gen 6
+Swift 5 SF514
+XPS 15 9510
+Pavilion Plus 14
+TUF Gaming A15
+Nitro 5 AN515-57
+Modern 15 B12M
+ProBook 440 G7
+Zenbook Pro 15 UX535
+Inspiron 15 3530
+Predator Helios 18
+OMEN 16
+VivoBook S14
+TravelMate P6
+Precision 3561
+ExpertBook B5 B5302
+Aspire Vero AV15
+ZBook Power G9
+Envy x360 15
+Legion 5 Pro Gen 7
+ThinkBook 15 G4
+Alienware x16 R1
+Yoga Slim 7 Pro
+Vostro 5620
+IdeaPad Gaming 3 15ACH6
+Dell G15 5525
+Lenovo LOQ 15IRH8
+MSI Pulse 15
+Latitude 7310
+ROG Strix SCAR 17
+EliteBook 850 G8
+ThinkPad T14s Gen 1
+Swift Go 14
+XPS 13 Plus 9320
+Pavilion Plus 16
+TUF Gaming F17
+Surface Laptop Studio
+Nitro 5 AN515-58
+Modern 14
+ProBook 455 G8
+Zenbook 13 UX325
+Inspiron 15 5502
+Predator Helios 300
+OMEN 15
+VivoBook 15 X1502
+Victus 15
+TravelMate P4
+Precision 3571
+ExpertBook B9 B9400
+Spectre x360 14
+Prestige 15
+Aspire 7
+Summit E16 Flip
+ZBook Power G10
+Envy 16
+Stealth 16 Studio
+G15 5511
+Legion 5 15ACH6
+ThinkBook 16 G6
+Alienware m18 R2
+Yoga 7i Gen 7
+Vostro 3500
+IdeaPad 5 Pro 16ACH6
+Dell G15 5530
+Lenovo LOQ 15IAX9
+MSI Titan GT77 HX
+Latitude 5400
+ROG Strix G16
+EliteBook 640 G9
+ThinkPad T490s
+Katana 15
+Swift Go 16
+XPS 16 9640
+Pavilion x360 14
+TUF Gaming A16
+Surface Laptop 4 Intel
+Nitro 16 AN16
+Modern 15
+ProBook 430 G8
+Zenbook 14 Flip OLED
+Inspiron 16 Plus 7630
+Predator Triton 500 SE
+Galaxy Book3 Pro
+OMEN 17
+Vivobook Go 15
+LG gram 14
+Victus 16
+TravelMate P2
+Precision 5470
+GF63 Thin
+ExpertBook B7 Flip
+Spectre x360 16
+ProArt Studiobook 16
+Prestige 14
+Creator Z16
+Aspire 3 A315
+Summit E14
+ZBook Fury 16 G9
+Cyborg 15
+Envy 17
+Stealth 15M
+G15 5520
+Legion Pro 7 16IRX8H
+ThinkBook 14 G4
+Alienware x14 R1
+Yoga Pro 7 14APH8
+Vostro 3510
+IdeaPad Slim 5 16IRL8
+Vector GP66
+CreatorPro M16
+Raider GE78 HX
+Crosshair 15
+Thin GF63 12VE
+ConceptD 7
+Dell G15 5515
+Lenovo LOQ 16IRH8
+MSI Raider GE68 HX
+Razer Blade 14 2023
